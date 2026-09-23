@@ -1,0 +1,22 @@
+{
+    "order_service_fees": [
+        {
+            "passenger_type": "ADT",
+            "passengers_count": 2,
+            "order_single_service_fee_amount": 20,
+            "order_service_fee_amount": 40
+        },
+        {
+            "passenger_type": "CHD",
+            "passengers_count": 1,
+            "order_single_service_fee_amount": 10,
+            "order_service_fee_amount": 10
+        },
+        {
+            "passenger_type": "INF",
+            "passengers_count": 1,
+            "order_single_service_fee_amount": 3,
+            "order_service_fee_amount": 3
+        }
+    ]
+}
